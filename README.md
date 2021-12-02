@@ -1,4 +1,4 @@
-# Tianyi_GCD_2B
+# Tianyi_GCD_2A
 **I think many people who are new to creative computing will feel a bit overwelming, learning creative computing like learning a new language, there are lots of new grammar and logic. But after a week of self-study, I found that learning programming is not as difficult as I imagined. If you let go of your fear and actually start the journey. More aptly, I realised that creative computing is not about how to write codes but how to use code. After understanding the basic logic of programming, and learning how to use open source. This vibrant creative community opens up many possibilities for my creative path.**
 ## p5.js
 **[p5.js](https://p5js.org/) is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! (This week, I learned p5.js, I think it is a good coding website for the beginners. I want to share how I learned basic programming language from it, and as a creative worker, how to use opensource to make what you want.)**
